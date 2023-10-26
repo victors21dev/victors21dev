@@ -7,12 +7,14 @@ Análise e Desenvolvimento de Sistemas - CESMAC (1/6) 💻
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santos-da-silva-2753a6191/)
 <br/>
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victors21dev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victors21dev&layout=compact)
+<div style="width: 100%: height: 100%; display: flex; flex-wrap: wrap; gap: 4px; justify-content: start;">
+    <img alt="show_icons" src="https://github-readme-stats.vercel.app/api?username=victors21dev&show_icons=true&theme=dark">
+    <img alt="show_icons" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victors21dev&layout=donut&theme=dark">
+</div>
 
 ### Tecnologias dominantes
 
-<div style="display: inline-block"><br/>
+<div style="display: inline-block; display: flex; flex-wrap: wrap; gap: 4px; justify-content: flex-start;"><br/>
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -24,7 +26,7 @@ Análise e Desenvolvimento de Sistemas - CESMAC (1/6) 💻
 
 ### Tecnologia em aprendizagem
 
-<div>
+<div style="display: inline-block; display: flex; flex-wrap: wrap; gap: 4px; justify-content: flex-start;">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
