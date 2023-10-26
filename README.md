@@ -31,7 +31,9 @@ Estudante de programação
     <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div><br/>
+
 ### Email para contato
+
 <div>
     <a href="mailto:santos.victors2000@gmail.com">
         <img align="center" alt="vercel" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><span> santos.victors2000@gmail.com</span>
