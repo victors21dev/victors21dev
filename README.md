@@ -7,7 +7,7 @@ Análise e Desenvolvimento de Sistemas - CESMAC (1/6) 💻
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santos-da-silva-2753a6191/)
 <br/>
 
-<div style="width: 100%: height: 100%; display: flex; flex-wrap: wrap; gap: 4px; justify-content: start;">
+<div style="width: 100%: height: 100%; display: flex; flex-wrap: wrap; gap: 4px; align-items: center;">
     <img alt="show_icons" src="https://github-readme-stats.vercel.app/api?username=victors21dev&show_icons=true&theme=dark">
     <img alt="show_icons" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victors21dev&layout=donut&theme=dark">
 </div>
