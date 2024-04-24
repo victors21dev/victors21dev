@@ -36,13 +36,3 @@ Análise e Desenvolvimento de Sistemas - CESMAC (2/6) 💻
     <img align="center" style="margin: 2px;" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" style="margin: 2px;" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
-
-### --- Email para contato ---
-
-<div>
-    <a href="mailto:santos.victors2000@gmail.com">
-        <img align="center" style="margin: 2px;" alt="vercel" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><span> santos.victors2000@gmail.com</span>
-    </a>
-</div><br/>
-
-</div>
