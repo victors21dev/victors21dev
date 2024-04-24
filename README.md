@@ -6,7 +6,6 @@ Análise e Desenvolvimento de Sistemas - CESMAC (2/6) 💻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor23ztr/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santos-da-silva-2753a6191/)
-[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/pt-BR/play/user/Ztr19)
 <br/>
 
 ### --- Estatísticas ---
@@ -36,14 +35,4 @@ Análise e Desenvolvimento de Sistemas - CESMAC (2/6) 💻
     <img align="center" style="margin: 2px;" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" style="margin: 2px;" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" style="margin: 2px;" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</div>
-
-### --- Email para contato ---
-
-<div>
-    <a href="mailto:santos.victors2000@gmail.com">
-        <img align="center" style="margin: 2px;" alt="vercel" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><span> santos.victors2000@gmail.com</span>
-    </a>
-</div><br/>
-
 </div>
