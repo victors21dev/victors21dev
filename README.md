@@ -4,7 +4,6 @@
 Estudante de programação<br/>
 Análise e Desenvolvimento de Sistemas - CESMAC (3/6) 💻
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor23ztr/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santos-da-silva-2753a6191/)
 <br/>
 
