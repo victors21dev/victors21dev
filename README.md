@@ -76,11 +76,11 @@
 
 > Eu não apenas crio o software, eu entendo a infraestrutura que o sustenta.
 
-> #### 🧑‍💻 Suporte | Programadorbr
+#### 🧑‍💻 Suporte | Programadorbr
 * Mentoria técnica a alunos em desenvolvimento web (Node.js, MongoDB, JavaScript, etc.).
 * Realização de revisões de código (Code Review), focando em boas práticas e performance.
   
-* #### 🏭 Estagiário de Infraestrutura | Usina Coruripe
+#### 🏭 Estagiário de Infraestrutura | Usina Coruripe
 * **Desenvolvi e implementei** uma planilha de controle de estoque que **otimizou a organização**.
 * A ferramenta foi adotada e replicada para uso em outros polos da empresa.
 * Prestei suporte técnico e treinei Jovens Aprendizes em rotinas do setor.
