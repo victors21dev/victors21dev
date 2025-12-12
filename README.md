@@ -1,18 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
-  
-  <h1>
-    Olá! 👋 Eu sou o Victor Santos
-  </h1>
-  
-  <h3>
-    Desenvolvedor Full Stack | Node.js | React | PostgreSQL
-  </h3>
-  
-  <p>
-    Sou um Desenvolvedor apaixonado por criar soluções que resolvem problemas reais. Minha jornada começou na Infraestrutura, o que me deu uma visão única sobre como software e hardware se conectam para entregar valor ao usuário final.
-  </p>
-</div>
+# 👋 Olá, eu sou Victor Santos da Silva
+
+🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo CESMAC  
+🌍 Coruripe, Alagoas, Brasil  
 
 <div id="socials" align="center">
   <a href="https://www.linkedin.com/in/victor-santos-da-silva/">
@@ -23,20 +12,14 @@
   </a>
 </div>
 
----
+## 🚀 Sobre mim
+Sou desenvolvedor Full-Stack Júnior com especialização em React, foco em entrega de projetos funcionais e escaláveis.
 
-<div align="center">
-  <h3>📊 Minhas Estatísticas no GitHub</h3>
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victors21dev&layout=compact&langs_count=7&theme=dracula"/>
-  </p>
-  <img src="https://ghchart.rshah.org/victors21dev?color=dark" alt="Gráfico de Contribuição do GitHub"/>
-</div>
+- 🔹 Experiência em **React, NodeJS, Python com Django**
 
 ---
 
-### 🛠️ Minha Stack de Tecnologias
-
+## 🛠️ Principais Competências
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
@@ -69,3 +52,14 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victors21dev&layout=compact&theme=radical)
+
+---
+
+## 📫 Contato
+- 🔗 [LinkedIn](https://www.linkedin.com/in/victor-santos-da-silva/)  
