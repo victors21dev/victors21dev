@@ -70,25 +70,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🚀 Minha Jornada: Da Infra ao Desenvolvimento
-
-> Eu não apenas crio o software, eu entendo a infraestrutura que o sustenta.
-
-#### 🧑‍💻 Suporte | Programadorbr
-* Mentoria técnica a alunos em desenvolvimento web (Node.js, MongoDB, JavaScript, etc.).
-* Realização de revisões de código (Code Review), focando em boas práticas e performance.
-  
-#### 🏭 Estagiário de Infraestrutura | Usina Coruripe
-* **Desenvolvi e implementei** uma planilha de controle de estoque que **otimizou a organização**.
-* A ferramenta foi adotada e replicada para uso em outros polos da empresa.
-* Prestei suporte técnico e treinei Jovens Aprendizes em rotinas do setor.
-
-#### 🏥 Analista de Infraestrutura Jr. | Hospital Carvalho Beltrão
-* **Idealizei e desenvolvi** um sistema de geração de pulseiras de internação, automatizando um processo manual crítico.
-* **Criei** uma aplicação de painel de atendimento (TV) com um mecanismo de reinício remoto via celular.
-* Demonstrei alta capacidade de resolução de problemas (problem-solving) em momentos críticos.
-
-
