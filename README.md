@@ -28,7 +28,6 @@
 <div align="center">
   <h3>📊 Minhas Estatísticas no GitHub</h3>
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victors21dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victors21dev&layout=compact&langs_count=7&theme=dracula"/>
   </p>
   <img src="https://ghchart.rshah.org/victors21dev?color=dark" alt="Gráfico de Contribuição do GitHub"/>
