@@ -13,7 +13,7 @@
 </div>
 
 ## 🚀 Sobre mim
-Sou desenvolvedor Full-Stack Júnior com especialização em React, foco em entrega de projetos funcionais e escaláveis.
+Sou desenvolvedor Front-End júnior com especialização em React, foco em entrega de projetos funcionais e escaláveis.
 
 - 🔹 Experiência em **React, NodeJS, Python com Django**
 
